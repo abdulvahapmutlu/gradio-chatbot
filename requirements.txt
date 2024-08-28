@@ -1,0 +1,4 @@
+huggingface_hub==0.24.6
+transformers==4.44.0
+gradio
+torch  # If not included with transformers
